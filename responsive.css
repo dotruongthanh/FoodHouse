@@ -1,0 +1,27 @@
+/* @media screen and (max-width:1023px) {
+    h1{
+        font-size: 13px;
+    }
+} */
+
+
+/*  small devices */
+/* @media only screen and (max-width:600px) {
+    *{
+        font-size: 13px;
+    }
+    h1{
+        font-size: 3rem !important;
+    }
+    span{
+        font-size: inherit;
+    }
+    .col-xs-12{
+        width: 100%;
+    }
+    .h-xs{
+        display: none;
+    }
+} */
+
+
